@@ -1,0 +1,13 @@
+* {
+    font-family: Helvetica, sans-serif;
+    color:rgb(167,130,215);
+    background-color: lightyellow;
+}
+
+.recipeslist .list {
+    color : blue;
+}
+
+.recipeslist .point {
+    color: blue;
+}
